@@ -69,21 +69,44 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2>🛠️ Languages & Tools</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajal60801&show_icons=true&hide_border=false&bg_color=ffffff&title_color=24292f&text_color=24292f&icon_color=0969da" alt="Kajal's GitHub Stats" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kajal60801&show_icons=true&layout=compact&hide_border=false&bg_color=ffffff&title_color=24292f&text_color=24292f" alt="Top Languages" />
-</p>
-
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br>
+      <b>C++</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/><br>
+      <b>HTML5</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/><br>
+      <b>CSS3</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/><br>
+      <b>React</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/><br>
+      <b>MySQL</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/><br>
+      <b>Git</b>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 GitHub Streak
 
