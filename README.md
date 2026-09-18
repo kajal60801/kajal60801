@@ -23,7 +23,6 @@
 
 <table>
   <tr>
-
     <td align="center">
       <a href="https://linkedin.com/in/kajalsingh-profile" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
@@ -31,7 +30,6 @@
         <b>LinkedIn</b>
       </a>
     </td>
-
     <td align="center">
       <a href="https://instagram.com/kajalsingh60801" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
@@ -39,7 +37,6 @@
         <b>Instagram</b>
       </a>
     </td>
-
     <td align="center">
       <a href="https://www.codechef.com/users/kajal60801" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40" alt="CodeChef"/>
@@ -47,7 +44,6 @@
         <b>CodeChef</b>
       </a>
     </td>
-
     <td align="center">
       <a href="https://www.hackerrank.com/singh_kajal6533" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="HackerRank"/>
@@ -55,7 +51,6 @@
         <b>HackerRank</b>
       </a>
     </td>
-
     <td align="center">
       <a href="https://www.leetcode.com/kajal60801" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode"/>
@@ -63,7 +58,6 @@
         <b>LeetCode</b>
       </a>
     </td>
-
   </tr>
 </table>
 
@@ -73,70 +67,49 @@
 
 <table>
   <tr>
-
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
       <br>
       <b>C++</b>
     </td>
-
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>
       <br>
       <b>HTML5</b>
     </td>
-
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
       <br>
       <b>CSS3</b>
     </td>
-
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
       <br>
       <b>JavaScript</b>
     </td>
-
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
       <br>
       <b>React</b>
     </td>
-
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
       <br>
       <b>Python</b>
     </td>
-
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
       <br>
       <b>MySQL</b>
     </td>
-
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
       <br>
       <b>Git</b>
     </td>
-
   </tr>
 </table>
 
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal60801&layout=compact&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"
-    alt="Most Used Languages"
-  />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
