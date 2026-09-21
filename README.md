@@ -114,9 +114,10 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+  <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kajal60801&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kajal60801&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E&hide_border=false&cache_bust=1"
     alt="GitHub Streak"
   />
 </p>
+
